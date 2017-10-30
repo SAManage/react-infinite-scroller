@@ -172,3 +172,4 @@ InfiniteScroll.defaultProps = {
     resetPageLoader: false
 };
 exports.default = InfiniteScroll;
+module.exports = exports['default'];
